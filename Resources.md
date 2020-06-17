@@ -3,11 +3,11 @@
 That only reflect the interests and current learning of June / July 2020 while looking for an interesting job. 
 
 ### Open Source
-[GitHub](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV): great easy tutorial from the amazing Daniel Shiffman
-[Github 2] (https://guides.github.com/introduction/flow/): To understand the github flow. 
-[OpenSource Guide](https://opensource.guide/): to start a project
-[Blog about it](https://pages.github.com/)
-
+[GitHub](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV): great easy tutorial from the amazing Daniel Shiffman  
+[Github 2](https://guides.github.com/introduction/flow/): To understand the github flow.  
+[OpenSource Guide](https://opensource.guide/): to start a project  
+[Blog about it](https://pages.github.com/)  
+  
 [Twitter](https://twitter.github.io/): how to open the source of the bird
 
 ### Artificial Intelligence
